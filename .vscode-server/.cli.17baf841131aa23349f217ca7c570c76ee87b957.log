@@ -1,6 +1,0 @@
-Listening on 127.0.0.1:38797
-[2025-05-08 06:52:29] info Disposed of connection to running server.
-[2025-05-08 06:52:30] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-17baf841131aa23349f217ca7c570c76ee87b957/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-17baf841131aa23349f217ca7c570c76ee87b957/pid.txt for a running server...
-[2025-05-08 06:52:30] info Downloading Visual Studio Code server -> /tmp/.tmp1ow7m2/vscode-server-linux-x64.tar.gz
-[2025-05-08 06:52:32] info Starting server...
-[2025-05-08 06:52:32] info Server started

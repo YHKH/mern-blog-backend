@@ -1,0 +1,21 @@
+# VSCode and system folders
+.vscode/
+.vscode-server/
+.cache/
+.ssh/
+.wget-hsts
+.DS_Store
+
+# Node and logs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+*.pem
+
+# Others
+*.swp
+*.swo
