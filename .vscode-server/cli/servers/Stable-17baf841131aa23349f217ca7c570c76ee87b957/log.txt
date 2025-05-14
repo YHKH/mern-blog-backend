@@ -1,0 +1,69 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-c4c1698c-cb57-4532-ac4a-cb508973239f
+Extension host agent listening on /tmp/code-c4c1698c-cb57-4532-ac4a-cb508973239f
+
+[06:52:33] 
+
+
+
+
+[06:52:33] Extension host agent started.
+[06:52:33] Started initializing default profile extensions in extensions installation folder. file:///home/ec2-user/.vscode-server/extensions
+[06:52:33] Completed initializing default profile extensions in extensions installation folder. file:///home/ec2-user/.vscode-server/extensions
+[06:52:33] [<unknown>][b686c840][ManagementConnection] New connection established.
+[06:52:33] [<unknown>][9f98e9c1][ExtensionHostConnection] New connection established.
+[06:52:33] [<unknown>][9f98e9c1][ExtensionHostConnection] <2540> Launched Extension Host Process.
+[06:52:37] Getting Manifest... github.copilot-chat
+[06:52:37] Getting Manifest... github.copilot
+[06:52:37] Installing extension: github.copilot-chat {
+  installPreReleaseVersion: false,
+  donotIncludePackAndDependencies: true,
+  donotVerifySignature: false,
+  context: { clientTargetPlatform: 'win32-x64' },
+  isApplicationScoped: false,
+  profileLocation: gr {
+    scheme: 'file',
+    authority: '',
+    path: '/home/ec2-user/.vscode-server/extensions/extensions.json',
+    query: '',
+    fragment: '',
+    _formatted: 'file:///home/ec2-user/.vscode-server/extensions/extensions.json',
+    _fsPath: '/home/ec2-user/.vscode-server/extensions/extensions.json'
+  },
+  productVersion: { version: '1.99.3', date: '2025-04-15T23:18:46.076Z' }
+}
+[06:52:37] Installing the extension without checking dependencies and pack github.copilot-chat
+[06:52:37] Installing extension: github.copilot {
+  installPreReleaseVersion: false,
+  donotIncludePackAndDependencies: true,
+  donotVerifySignature: false,
+  context: { clientTargetPlatform: 'win32-x64' },
+  isApplicationScoped: false,
+  profileLocation: gr {
+    scheme: 'file',
+    authority: '',
+    path: '/home/ec2-user/.vscode-server/extensions/extensions.json',
+    query: '',
+    fragment: '',
+    _formatted: 'file:///home/ec2-user/.vscode-server/extensions/extensions.json',
+    _fsPath: '/home/ec2-user/.vscode-server/extensions/extensions.json'
+  },
+  productVersion: { version: '1.99.3', date: '2025-04-15T23:18:46.076Z' }
+}
+[06:52:37] Installing the extension without checking dependencies and pack github.copilot
+[06:52:39] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 1491ms.
+[06:52:39] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 1554ms.
+[06:52:39] Extracted extension to file:///home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.26.7: github.copilot-chat
+[06:52:39] Renamed to /home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.26.7
+[06:52:39] Extension installed successfully: github.copilot-chat file:///home/ec2-user/.vscode-server/extensions/extensions.json
+[06:52:40] Extracted extension to file:///home/ec2-user/.vscode-server/extensions/github.copilot-1.314.0: github.copilot
+[06:52:40] Renamed to /home/ec2-user/.vscode-server/extensions/github.copilot-1.314.0
+[06:52:40] Extension installed successfully: github.copilot file:///home/ec2-user/.vscode-server/extensions/extensions.json
+[06:55:28] No ptyHost heartbeat after 6 seconds
+[06:56:07] No ptyHost heartbeat after 6 seconds

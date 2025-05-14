@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "remote.SSH.remotePlatform": {
+        "SDA-Linux-no-pem": "linux",
+        "SDA-Linux": "linux",
+        "my-first-ec2": "linux",
+        "ec2-user-firstkey": "linux"
+    },
+    "terminal.integrated.defaultProfile.windows": "Git Bash"
+}

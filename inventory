@@ -1,0 +1,2 @@
+[backends]
+localhost ansible_connection=local
